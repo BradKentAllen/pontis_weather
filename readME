@@ -1,6 +1,14 @@
-A.1
+Revision A.1
+
+Release and revision:
 
 Field test release October 10, 2019
 
 Rev A.0 - draft manual is available for this release
 Rev A.1 - released for field tests in Nicaragua
+
+Pontis Weather was developed in 2019 for use by Pontis Nicaragua (www.pontisnicaragua.org) on remote farms in rural Nicaragua.  The challenge was to both record weather data for use in analyzing micro climates while providing real-time irrigation requirements data to the farmers.
+
+The farm locations demanded that the unit be autonomous, solar powered, provide data on usb thumb drives, be operated by both untrained farmers and semi-trained technicians, and survice the very wet, humid, and tough environment.
+
+For the best background, recommend going through the provided manual.
